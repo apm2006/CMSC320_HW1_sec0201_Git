@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to biology. Within biology, there a large datasets of DNA strands and genetic combinations that can be analyzed through data science techniques, as going through those combinations one by one wouldn't be optimal.
