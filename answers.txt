@@ -10,3 +10,7 @@ Answer: Data science could be applied to biology. Within biology, there a large 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: With merging, when you merge the two branches together, it keeps the original commit history of both the branches in the commit log. With rebasing, it rewrites the commit history in such a way where you can't tell that there was a "merge" between two branches.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning data science fundamentals. As a CS - Data Science Concentration major, it's important for me to fully understand this class as it is foundational to the rest of the curriculum I will be taking for my other computer science courses.
